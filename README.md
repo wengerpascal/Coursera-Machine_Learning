@@ -1,4 +1,4 @@
-# Coursera-Machine_Learning
+# Coursera Machine Learning in Python
 
 This repository contains jupyter lab implementations in Python for the exercises from the Machine Learning course by Andrew Ng. It follows the instruction on the Livescript in order to gather the intuitions taught by Andrew. Only at the end of the exercises there are scikit-learn implementations.
 
