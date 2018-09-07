@@ -10,4 +10,5 @@ This notebook is a Python implementation of Exercise 2 from the Machine Learning
 
 
 ### Note - Instruction for the interactive plots
+In order to use the interactive plots it is necessary to install nodejs, and ipywidgets. See instruction:
 https://ipywidgets.readthedocs.io/en/stable/user_install.html
