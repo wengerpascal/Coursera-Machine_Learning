@@ -8,3 +8,6 @@ This notebook is a Python implementation of Exercise 1 from the Machine Learning
 ### Exercise 2 - Logistic Regression.ipynb
 This notebook is a Python implementation of Exercise 2 from the Machine Learning Course given by Andrew Ng on Coursera. It follows the live script including the optional excercises.
 
+
+### Note - Instruction for the interactive plots
+https://ipywidgets.readthedocs.io/en/stable/user_install.html
